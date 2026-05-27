@@ -1,5 +1,4 @@
 from datetime import date, datetime
-from datetime import date, datetime
 
 def analyzes_employee_leave_generates_categorized(leaves, current_date):
     """
@@ -92,5 +91,4 @@ while True:
             break
     except Exception:
         print('Enter only number')
-print(analyzes_employee_leave_generates_categorized(leaves, current_date))
 print(analyzes_employee_leave_generates_categorized(leaves, current_date))
