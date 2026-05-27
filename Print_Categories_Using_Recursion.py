@@ -58,4 +58,6 @@ categories = [
                         "children": []}]}
             ]
 print(print_all_categories(categories))
+print(print_all_categories(categories))
+
 
