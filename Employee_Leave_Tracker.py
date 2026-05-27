@@ -92,3 +92,4 @@ while True:
     except Exception:
         print('Enter only number')
 print(analyzes_employee_leave_generates_categorized(leaves, current_date))
+print(analyzes_employee_leave_generates_categorized(leaves, current_date))
